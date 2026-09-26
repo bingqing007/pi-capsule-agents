@@ -1,0 +1,5 @@
+{
+  "task": "Analyze conductivity, produce an evidence-grounded result, then delegate an independent reviewer to verify it.",
+  "inputs": {"samples.csv": "sample,conductivity\nA,10\nB,20\nC,30\n"},
+  "timeout": 300
+}

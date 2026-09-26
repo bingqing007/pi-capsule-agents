@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "capsule-agents": {
+      "command": "capsule-agents",
+      "args": ["mcp"],
+      "env": {"CAPSULE_MODEL": "YOUR_INSTALLED_OLLAMA_MODEL"}
+    }
+  }
+}
